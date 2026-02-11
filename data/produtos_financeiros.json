@@ -1,42 +1,47 @@
 [
   {
-    "nome": "Tesouro Selic",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "100% da Selic",
-    "aporte_minimo": 30.00,
-    "indicado_para": "Reserva de emergência e iniciantes"
+    "produto": "Tesouro Selic",
+    "liquidez": "alta",
+    "prazo_minimo": "1 dia",
+    "tem_ir": "sim",
+    "indicado_para_perfil": "conservador",
+    "rentabilidade": "baixa",
+    "risco": "baixo"
   },
   {
-    "nome": "CDB Liquidez Diária",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "102% do CDI",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Quem busca segurança com rendimento diário"
+    "produto": "CDB Liquidez Diária",
+    "liquidez": "alta",
+    "prazo_minimo": "1 dia",
+    "tem_ir": "sim",
+    "indicado_para_perfil": "moderado",
+    "rentabilidade": "média",
+    "risco": "baixo"
   },
   {
-    "nome": "LCI/LCA",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "95% do CDI",
-    "aporte_minimo": 1000.00,
-    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+    "produto": "Fundos Imobiliários",
+    "liquidez": "média",
+    "prazo_minimo": "30 dias",
+    "tem_ir": "não",
+    "indicado_para_perfil": "moderado",
+    "rentabilidade": "média",
+    "risco": "médio"
   },
   {
-    "nome": "Fundo Multimercado",
-    "categoria": "fundo",
-    "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
-    "indicado_para": "Perfil moderado que busca diversificação"
+    "produto": "Ações",
+    "liquidez": "alta",
+    "prazo_minimo": "1 dia",
+    "tem_ir": "sim",
+    "indicado_para_perfil": "arrojado",
+    "rentabilidade": "alta",
+    "risco": "alto"
   },
   {
-    "nome": "Fundo de Ações",
-    "categoria": "fundo",
-    "risco": "alto",
-    "rentabilidade": "Variável",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Perfil arrojado com foco no longo prazo"
+    "produto": "Criptomoedas",
+    "liquidez": "alta",
+    "prazo_minimo": "imediato",
+    "tem_ir": "sim",
+    "indicado_para_perfil": "arrojado",
+    "rentabilidade": "alta",
+    "risco": "alto"
   }
 ]

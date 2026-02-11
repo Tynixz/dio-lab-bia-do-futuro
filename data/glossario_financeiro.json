@@ -1,0 +1,82 @@
+[
+  {
+    "termo": "CDI", "explicacao_simples": "Taxa usada como referência em investimentos no Brasil.", "exemplo_pratico": "Um CDB pode render 110% do CDI."
+},
+
+  {
+    "termo": "Selic", "explicacao_simples": "Taxa básica de juros da economia brasileira.", "exemplo_pratico": "Tesouro Selic acompanha a taxa Selic."
+},
+
+  {
+    "termo": "IPCA", "explicacao_simples": "Índice que mede a inflação oficial do país.", "exemplo_pratico": "Tesouro IPCA protege contra inflação."
+},
+
+  {
+    "termo": "Liquidez", "explicacao_simples": "Tempo para transformar investimento em dinheiro.", "exemplo_pratico": "Tesouro Selic tem liquidez diária.", "analogia": "É como a velocidade de um saque no caixa eletrônico."
+},
+
+  {
+    "termo": "Reserva de Emergência", "explicacao_simples": "Dinheiro guardado para imprevistos.", "exemplo_pratico": "Guardar 6 meses de despesas em Tesouro Selic."
+},
+
+  {
+    "termo": "Renda Fixa", "explicacao_simples": "Investimentos com retorno previsível.", "exemplo_pratico": "Tesouro Direto é renda fixa.", "analogia": "É como emprestar dinheiro e saber exatamente quanto vai receber."
+},
+
+  {
+    "termo": "Renda Variável", "explicacao_simples": "Investimentos cujo retorno pode variar.", "exemplo_pratico": "Ações são renda variável.", "analogia": "É como abrir um negócio: pode dar lucro ou prejuízo."
+},
+
+  {
+    "termo": "CDB", "explicacao_simples": "Título emitido por bancos para captar dinheiro.", "exemplo_pratico": "Um CDB pode render 110% do CDI."
+}, 
+
+  {
+    "termo": "LCI/LCA", "explicacao_simples": "Títulos de crédito imobiliário ou agrícola, isentos de IR.", "exemplo_pratico": "LCI de 90 dias sem imposto."
+},
+
+  {
+    "termo": "Debêntures", "explicacao_simples": "Títulos emitidos por empresas para captar recursos.", "exemplo_pratico": "Investir em debêntures de uma companhia elétrica."
+},
+
+  {
+    "termo": "Fundos de Investimento", "explicacao_simples": "Aplicações coletivas administradas por gestores.", "exemplo_pratico": "Fundo multimercado que mistura renda fixa e ações."
+}, 
+
+  {
+    "termo": "ETF", "explicacao_simples": "Fundos que replicam índices de mercado.", "exemplo_pratico": "Um ETF pode seguir o Ibovespa."
+}, 
+
+  {
+    "termo": "IPO", "explicacao_simples": "Oferta inicial de ações de uma empresa na bolsa.", "exemplo_pratico": "Empresa de tecnologia faz IPO na B3."
+},
+
+  {
+    "termo": "Dividendos", "explicacao_simples": "Parte do lucro distribuída aos acionistas.", "exemplo_pratico": "Petrobras pagou dividendos aos investidores."
+}, 
+
+  {
+    "termo": "Juros Compostos", "explicacao_simples": "Juros calculados sobre o valor inicial e os juros acumulados.", "exemplo_pratico": "Investimento de R$ 1000 cresce mais rápido com juros compostos.", "analogia": "É como uma bola de neve que aumenta a cada volta." 
+}, 
+
+  {
+    "termo": "Amortização", "explicacao_simples": "Pagamento gradual de uma dívida.", "exemplo_pratico": "Financiamento imobiliário com amortização mensal."
+}, 
+
+  {
+    "termo": "Score de Crédito", "explicacao_simples": "Nota que indica a chance de pagar dívidas em dia.", "exemplo_pratico": "Score alto facilita conseguir empréstimos."
+}, 
+
+  {
+    "termo": "Reserva de Valor", "explicacao_simples": "Bem ou ativo usado para preservar riqueza.", "exemplo_pratico": "O ouro é considerado reserva de valor."
+}, 
+
+  {
+    "termo": "Diversificação", "explicacao_simples": "Distribuir investimentos em diferentes ativos para reduzir riscos.", "exemplo_pratico": "Aplicar em ações, renda fixa e fundos imobiliários.", "analogia": "É como não colocar todos os ovos na mesma cesta."
+}, 
+
+  {
+    "termo": "Alavancagem", "explicacao_simples": "Uso de recursos emprestados para aumentar ganhos (ou perdas).", "exemplo_pratico": "Investidor usa margem para comprar mais ações.", "analogia": "É como usar uma escada: ajuda a subir mais rápido, mas aumenta o risco de queda."
+}  
+
+]

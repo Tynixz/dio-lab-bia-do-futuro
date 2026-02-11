@@ -1,0 +1,11 @@
+[
+  {"perfil": "baixa renda", "categoria": "moradia", "percentual_recomendado": 30},
+  {"perfil": "baixa renda", "categoria": "alimentação", "percentual_recomendado": 25},
+  {"perfil": "baixa renda", "categoria": "transporte", "percentual_recomendado": 15},
+  {"perfil": "média renda", "categoria": "moradia", "percentual_recomendado": 30},
+  {"perfil": "média renda", "categoria": "alimentação", "percentual_recomendado": 20},
+  {"perfil": "média renda", "categoria": "lazer", "percentual_recomendado": 15},
+  {"perfil": "alta renda", "categoria": "moradia", "percentual_recomendado": 25},
+  {"perfil": "alta renda", "categoria": "investimentos", "percentual_recomendado": 20},
+  {"perfil": "alta renda", "categoria": "lazer", "percentual_recomendado": 20}
+]

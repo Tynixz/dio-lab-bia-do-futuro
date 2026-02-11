@@ -1,0 +1,57 @@
+[
+  {
+    "id_cliente": 1,
+    "nome_completo": "Ana Maria Braga",
+    "idade": 35,
+    "profissao": "Analista de Marketing",
+    "renda_mensal": 4500,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "comprar apartamento",
+    "cidade_estado": "São Paulo/SP",
+    "dependentes": 0
+  },
+  {
+    "id_cliente": 2,
+    "nome_completo": "Marcos Dias",
+    "idade": 42,
+    "profissao": "Engenheiro Civil",
+    "renda_mensal": 12000,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "aposentadoria tranquila",
+    "cidade_estado": "Belo Horizonte/MG",
+    "dependentes": 2
+  },
+  {
+    "id_cliente": 3,
+    "nome_completo": "Tayna Moreira Dias",
+    "idade": 35,
+    "profissao": "Designer Gráfico",
+    "renda_mensal": 6000,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "abrir negócio próprio",
+    "cidade_estado": "Belo Horizonte/MG",
+    "dependentes": 1
+  },
+  {
+    "id_cliente": 4,
+    "nome_completo": "Ruddy Norman",
+    "idade": 50,
+    "profissao": "Professor Universitário",
+    "renda_mensal": 8000,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "viagens internacionais",
+    "cidade_estado": "Curitiba/PR",
+    "dependentes": 2
+  },
+  {
+    "id_cliente": 5,
+    "nome_completo": "Giseli Mutton",
+    "idade": 24,
+    "profissao": "Desenvolvedora",
+    "renda_mensal": 3500,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "reserva de emergência",
+    "cidade_estado": "Recife/PE",
+    "dependentes": 0
+  }
+]

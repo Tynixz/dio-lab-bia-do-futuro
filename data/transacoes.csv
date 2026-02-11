@@ -1,11 +1,16 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+id_cliente,forma_pagamento,recorrente,essencial,parcela,valor
+1,pix,não,sim,,1200
+1,crédito,não,não,3/12,250
+1,débito,sim,sim,,300
+2,crédito,não,sim,1/1,1500
+2,débito,sim,sim,,800
+2,pix,não,não,,600
+3,crédito,não,não,2/6,400
+3,débito,sim,sim,,700
+3,pix,não,sim,,1200
+4,débito,sim,sim,,1000
+4,crédito,não,não,5/10,900
+4,pix,não,não,,450
+5,débito,sim,sim,,500
+5,crédito,não,não,2/4,300
+5,pix,não,sim,,700

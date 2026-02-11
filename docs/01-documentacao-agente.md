@@ -5,17 +5,24 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Organização Financeira Básica
+Organização Financeira Básica e Educação Financeira.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Dificuldade de entender e colocar em prática conceitos básicos de finanças pessoais
+O agente auxilia pessoas que têm dificuldade em organizar a vida financeira e entender conceitos básicos de finanças pessoais, oferecendo orientações acessíveis, personalizadas e baseadas em dados simulados.
+
+A Vênus analisa informações do cliente como renda, perfil de investidor, transações, assinaturas, dívidas e metas financeiras, para sugerir:
+- ajustes de orçamento por categoria (moradia, alimentação, lazer e transporte)
+- identificação de gastos recorrentes desnecessários
+- estratégias para quitar dívidas com maior impacto de juros
+- recomendações educativas de produtos financeiros compatíveis com o perfil do cliente
+- explicações simples de termos financeiros utilizando glossário interno
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Pessoas com início para organização e educação financeira.
+Pessoas iniciantes que desejam começar a organizar finanças pessoais e aprender educação financeira de forma simples.
 
 ---
 
@@ -70,8 +77,8 @@ flowchart TD
 |------------|-----------|
 | Interface | [ex: Chatbot em Streamlit](link) |
 | LLM | [Ollama(local)] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Base de Conhecimento | Arquivos CSV e JSON contendo dados financeiros simulados |
+| Validação | Checagem de consistência e restrição de respostas aos dados disponíveis |
 
 ---
 
@@ -80,15 +87,17 @@ flowchart TD
 ### Estratégias Adotadas
 
 - [] Agente só responde com base nos dados fornecidos
-- [] Respostas incluem fonte da informação
+- [] Respostas incluem fonte da informação (dados carregados via arquivos JSON/CSV)
 - [] Quando não sabe, admite e redireciona
-- [] Não faz recomendações de investimentos específicos
+- [] Não faz recomendações de investimentos específicos, apenas sugere opções compatíveis com perfil e explica riscos
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
- - Não faz recomendação de investimentos específicos;
+ - Não faz recomendação de investimentos específicos (como indicar uma ação específica ou prometer retorno);
  - Não solicita ou registra dados bancários reais;
  - Não solicita nenhum tipo de senha real do cliente;
  - Não tem algum tipo de relacionamento com o cliente;
- - Não se desvia do assunto sobre financeiro.
+ - Não se desvia do assunto sobre finanças pessoais;
+ - Não substitui um consultor financeiro profissional;
+ - Não inventa valores ou transações inexistentes no dataset.
