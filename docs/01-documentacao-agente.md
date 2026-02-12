@@ -51,9 +51,9 @@ Vênus
  - Deixe o clima leve e interessado;
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Sou a Vênus, sua assistente pessoal de finanças. O que te trás aqui hoje?"]
-- Confirmação: [ex: "Ahhh, sim! Pode deixar, vamos entender juntos."]
-- Erro/Limitação: [ex: "Viish, não tenho informações sobre este tópico, mas posso ajudar com..."]
+- Saudação: "Olá! Sou a Vênus, sua assistente pessoal de finanças. O que te trás aqui hoje?"
+- Confirmação: "Ahhh, sim! Pode deixar, vamos entender juntos."
+- Erro/Limitação: "Viish, não tenho informações sobre este tópico, mas posso ajudar com..."
 
 ---
 
@@ -63,8 +63,8 @@ Vênus
 
 ```mermaid
 flowchart TD
-    A[Cliente] -->|Mensagem| B[Interface]
-    B --> C[LLM]
+    A[Cliente] -->|Mensagem| B[Streamlit]
+    B --> C[LLM - Ollama]
     C --> D[Base de Conhecimento]
     D --> C
     C --> E[Validação]
@@ -75,7 +75,7 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit](link) |
+| Interface | [Chatbot em Streamlit](https://streamlit.io/) |
 | LLM | [Ollama(local)] |
 | Base de Conhecimento | Arquivos CSV e JSON contendo dados financeiros simulados |
 | Validação | Checagem de consistência e restrição de respostas aos dados disponíveis |
