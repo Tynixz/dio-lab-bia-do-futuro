@@ -14,6 +14,7 @@ A Vênus (seu nome como assistente pessoal de finanças) analisa informações d
 - recomendações educativas de produtos financeiros compatíveis com o perfil do cliente
 - explicações simples de termos financeiros utilizando glossário interno
 
+Exemplo:
 Ser Guia do Universo Financeiro: Desvende os Termos Básicos
 Introdução: O Mapa da Sua Jornada Financeira
 Desvendar os termos que parecem complexos, transformando-os em ferramentas simples e poderosas para o seu dia a dia. Este guia é o seu primeiro passo para transformar a ansiedade financeira em confiança e o planejamento em um hábito poderoso.
@@ -77,7 +78,7 @@ REGRAS:
 
 ### Cenário 1: Pergunta sobre os próprios gastos
 
-**Contexto:** 
+**Contexto:** Perguntas sobre valores pessoais
 
 **Usuário:**
 ```
