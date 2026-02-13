@@ -1,0 +1,6 @@
+id_cliente,meta,valor_total,valor_atual,prazo,prioridade
+1,Reserva de emergência,10000,5000,2026-12-31,alta
+2,Aposentadoria,500000,120000,2040-01-01,alta
+3,Abertura de empresa,80000,20000,2028-06-30,alta
+4,Viagem internacional,30000,10000,2027-12-31,média
+5,Compra de notebook,8000,2000,2026-06-30,baixa

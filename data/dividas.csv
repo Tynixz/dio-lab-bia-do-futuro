@@ -1,0 +1,6 @@
+id_cliente,tipo,valor_total,parcela_mensal,parcelas_restantes,juros_aprox,status
+1,cartão,3000,500,6,8.5,em dia
+2,financiamento,200000,2500,80,6.0,em dia
+3,empréstimo,15000,750,20,10.0,atrasado
+4,cartão,5000,600,8,12.0,em dia
+5,empréstimo,7000,400,15,9.0,em dia

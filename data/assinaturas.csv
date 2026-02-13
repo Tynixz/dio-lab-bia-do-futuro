@@ -1,0 +1,7 @@
+id_cliente,servico,valor,frequencia,ativo
+1,Netflix,39.90,mensal,sim
+1,Spotify,19.90,mensal,sim
+2,Academia,120,mensal,sim
+3,Adobe Creative Cloud,150,mensal,sim
+4,Amazon Prime,14.90,mensal,sim
+5,Curso Online,200,anual,não

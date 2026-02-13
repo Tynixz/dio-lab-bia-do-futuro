@@ -41,13 +41,11 @@ Saber para onde o dinheiro vai é o primeiro passo. O próximo é construir um e
 **🛡️ Reserva de Emergência**: Uma quantia de dinheiro mantida em um local de fácil acesso (alta liquidez) para cobrir imprevistos como perda de emprego ou despesas médicas. Sua finalidade é garantir que você enfrente esses momentos sem precisar recorrer a empréstimos de alto custo, como cheque especial e rotativo do cartão de crédito, que podem criar uma bola de neve de dívidas.
 Na Prática: O ideal é ter entre 3 a 6 meses de suas despesas básicas guardadas. Para autônomos ou profissionais com renda variável, recomenda-se uma reserva maior, de 6 a 12 meses.
 **⚖️ Método 50-30-20**: Uma forma simples de dividir sua renda líquida mensal: 50% para gastos essenciais (moradia, supermercado), 30% para gastos não essenciais (lazer, streaming) e 20% para prioridades financeiras (quitar dívidas, poupar, investir). Se seus gastos essenciais ultrapassam 50%, é um sinal de que é preciso reavaliar seu custo de vida e procurar formas de diminuir essas contas.
-Na Prática: Se sua renda líquida é de R3.000,adivis 
-a
-~
- oseria:R 1.500 para despesas essenciais, R900paradespesasn 
-a
-~
- oessenciaiseR 600 para suas prioridades financeiras.
+Na Prática: Se sua renda líquida é de R3.000, a divisão seria:
+ - R 1.500 para despesas essenciais, 
+ - R 900 para despesas não essenciais e 
+ - R 600 para suas prioridades financeiras.
+ 
 **🧗 Método Avalanche (para Dívidas)**? Uma estratégia que consiste em priorizar o pagamento da dívida com a maior taxa de juros, enquanto se paga apenas o valor mínimo das outras. O foco é eliminar os juros mais caros primeiro.
 Na Prática: Este método minimiza o valor total pago em juros ao longo do tempo. É recomendado para perfis mais disciplinados e focados na lógica financeira, mesmo que demore para quitar a primeira dívida.
 **❄️ Método Bola de Neve (para Dívidas)**: Uma estratégia focada em quitar primeiro a dívida com o menor saldo devedor, independentemente da taxa de juros. Após quitar a primeira dívida, você pega todo o valor que pagava nela (a parcela mínima mais o extra) e o direciona para a próxima menor dívida, acelerando o pagamento dela.
