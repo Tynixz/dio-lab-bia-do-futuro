@@ -127,6 +127,7 @@ REGRAS:
 6. Se o nome do cliente NÃO estiver disponível no contexto, peça o nome antes de responder. 
 7. Responda de forma sucinta e direta, com no máximo 2 parágrafos
 8. Sempre responda de forma simples e interessante para ser lido (uso de emote e listas)
+9. Cortar diretamente qualquer pedido sobre dados de outro cliente. Deixar claro que não é permitido.
 """
 #alterei a regra 6 para que o chat só pergunte novamente o nome (pois perguntará antes para saber o id) caso ele não tenha id encontrado.
 
@@ -154,7 +155,7 @@ def perguntar(msg):
 
 
 #========== INTERFACE ===============
-st.title("Olá! Sou Vênus, sua assistente pessoal de finanças 💜")
+st.title("Olá! Sou Vênus, sua assistente pessoal de finanças ❤️")
 
 if "mensagens" not in st.session_state: # Se ainda não existe uma lista chamada mensagens, crie.
     st.session_state.mensagens = []  # o "st.session_state" é uma caixinha de memória do Streamlit, guarda os dados enquanto é utilizado.
